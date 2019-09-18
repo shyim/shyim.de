@@ -1,5 +1,5 @@
 +++
-title = "How to deploy plugins updates automaticly to the Shopware Store"
+title = "How to deploy plugin updates automaticly to the Shopware Store"
 date = "2019-09-18"
 author = "Shyim"
 description = "Automating deployment to Shopware Store"
