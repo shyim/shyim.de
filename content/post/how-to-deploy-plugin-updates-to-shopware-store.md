@@ -30,6 +30,7 @@ You will need a `plugin.xml` with filled `title`, `version`, `description`, `com
 **Optional**
 
 You can define also the plugin description, manual and images in `Resources/store`. Currently supported files are
+
 * [shortLanguage (de, en)].html - for the Description
 * [shortLanguage (de, en)]_manual.html - for the Install Manual
 * images/*.(png|jpg|jpeg) will be used for Images. First image will be used as preview image.
