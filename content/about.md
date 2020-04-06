@@ -27,3 +27,4 @@ Hi, I’m Shyim and work in my free time mostly on opensource projects on Github
 
 * [Webversiert GmbH](https://www.webversiert.de/) for sponsoring me <3
 * [Rafael Prukop](https://github.com/MBDealer) for sponsoring me <3
+* [Christopher Dosin](https://github.com/ChristopherDosin) for sponsoring me <3
